@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1D4ED8"/></marker></defs>
+<path d="M966.2,152.7 A345,345 0 0 1 1082.6,257.1" fill="none" stroke="#1D4ED8" stroke-width="5" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M1144.7,440.6 A345,345 0 0 1 1089.3,642.9" fill="none" stroke="#1D4ED8" stroke-width="5" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M836.1,798.1 A345,345 0 0 1 763.9,798.1" fill="none" stroke="#1D4ED8" stroke-width="5" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M510.7,642.9 A345,345 0 0 1 455.3,440.6" fill="none" stroke="#1D4ED8" stroke-width="5" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M517.4,257.1 A345,345 0 0 1 633.8,152.7" fill="none" stroke="#1D4ED8" stroke-width="5" stroke-linecap="round" marker-end="url(#ah)"/>
+<text x="800" y="445" text-anchor="middle" font-size="60" font-weight="800" fill="#282828">사람</text>
+<text x="800" y="503" text-anchor="middle" font-size="34" font-weight="700" fill="#1D4ED8">일하는 순서</text>
+<rect x="650.0" y="35.0" width="300" height="150" rx="22" fill="#1D4ED8" stroke="#1D4ED8" stroke-width="3"/>
+<circle cx="680.0" cy="65.0" r="16" fill="#FFFFFF"/><text x="680.0" y="72.0" text-anchor="middle" font-size="20" font-weight="800" fill="#1D4ED8">1</text>
+<text x="800.0" y="118.0" text-anchor="middle" font-size="44" font-weight="800" fill="#fff">업무 파악</text>
+<text x="800.0" y="160.0" text-anchor="middle" font-size="24" fill="#E8EFFE">무엇을·왜·언제까지</text>
+<rect x="978.1" y="273.4" width="300" height="150" rx="22" fill="#FFFFFF" stroke="#E6E6E6" stroke-width="3"/>
+<circle cx="1008.1" cy="303.4" r="16" fill="#1D4ED8"/><text x="1008.1" y="310.4" text-anchor="middle" font-size="20" font-weight="800" fill="#fff">2</text>
+<text x="1128.1" y="356.4" text-anchor="middle" font-size="44" font-weight="800" fill="#282828">기획</text>
+<text x="1128.1" y="398.4" text-anchor="middle" font-size="24" fill="#3D3D3D">자료 조사·계획 세우기</text>
+<rect x="852.8" y="659.1" width="300" height="150" rx="22" fill="#FFFFFF" stroke="#E6E6E6" stroke-width="3"/>
+<circle cx="882.8" cy="689.1" r="16" fill="#1D4ED8"/><text x="882.8" y="696.1" text-anchor="middle" font-size="20" font-weight="800" fill="#fff">3</text>
+<text x="1002.8" y="742.1" text-anchor="middle" font-size="44" font-weight="800" fill="#282828">만들기</text>
+<text x="1002.8" y="784.1" text-anchor="middle" font-size="24" fill="#3D3D3D">자료 보며 작성·계산</text>
+<rect x="447.2" y="659.1" width="300" height="150" rx="22" fill="#FFFFFF" stroke="#E6E6E6" stroke-width="3"/>
+<circle cx="477.2" cy="689.1" r="16" fill="#1D4ED8"/><text x="477.2" y="696.1" text-anchor="middle" font-size="20" font-weight="800" fill="#fff">4</text>
+<text x="597.2" y="742.1" text-anchor="middle" font-size="44" font-weight="800" fill="#282828">검토</text>
+<text x="597.2" y="784.1" text-anchor="middle" font-size="24" fill="#3D3D3D">기준과 맞는지 확인</text>
+<rect x="321.9" y="273.4" width="300" height="150" rx="22" fill="#FFFFFF" stroke="#E6E6E6" stroke-width="3"/>
+<circle cx="351.9" cy="303.4" r="16" fill="#1D4ED8"/><text x="351.9" y="310.4" text-anchor="middle" font-size="20" font-weight="800" fill="#fff">5</text>
+<text x="471.9" y="356.4" text-anchor="middle" font-size="44" font-weight="800" fill="#282828">개선</text>
+<text x="471.9" y="398.4" text-anchor="middle" font-size="24" fill="#3D3D3D">고치고 다시 보고</text>
+</svg>
